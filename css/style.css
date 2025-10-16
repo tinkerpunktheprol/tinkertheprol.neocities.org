@@ -1,0 +1,9 @@
+body {
+    background-color: #EC2EDA;
+    color: black;
+    font-family: monospace;
+
+    h1 {
+    position: center;
+    }
+}
