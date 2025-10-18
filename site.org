@@ -7,7 +7,7 @@
 
 * index.html
 :PROPERTIES:
-:header-args: :tangle index.html
+:header-args: :tangle site-files/index.html
 :END:
 #+begin_src html
 <!DOCTYPE html>
@@ -42,7 +42,7 @@
 #+end_src
 * style.css
 :PROPERTIES:
-:header-args: :tangle css/style.css
+:header-args: :tangle site-files/css/style.css
 :END:
 #+begin_src css
 body {
